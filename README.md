@@ -1,0 +1,86 @@
+# Bad Bunny – EL CLúB
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+2:00 de la mañana en el club
+Todo el mundo pasándola cabrón
+Las mujeres encima de mí
+La hookah,
+las pastillas y un blunt
+La que yo quiera, dice que "sí"
+Bien loco cantando la canción
+Después de aquí nos vamos pa-
+Qué estará haciendo mi ex
+Que hace tiempo
+por ahí no se ve
+Será que ya me superó y le
+va bien
+Mientras que yo, borracho,
+pienso
+Qué estará haciendo mi ex
+Que hace tiempo
+por ahí no se ve
+Será que ya me superó y le
+va bien
+Mientras que yo, borracho,
+pienso
+Qué diablo estará haciendo
+¿Estará jangueando,
+estará durmiendo?
+¿Estará fumando,
+estará bebiendo?
+¿Seguirá sola,
+o está saliendo?
+Con otro que no soy yo,
+no soy yo
+Mami, ese no soy yo, no soy yo
+Aposté que te olvidaba
+y perdí 500
+Otra vez me ganaron
+los sentimientos
+Los muchachos piensan que
+yo estoy contento
+Pero no, estoy muerto por dentro
+La disco está llena,
+y a la vez vacía,
+porque no está la nena mía
+Con la que yo siempre me reía,
+con la que yo siempre me venía
+Con la que yo hablaba todos
+los días
+Y ahora no sé nada,
+y ahora no sé nada, ey
+Qué estará haciendo mi ex
+Que hace tiempo
+por ahí no se ve
+Será que ya me superó y le
+va bien
+Mientras que yo, borracho,
+pienso
+2019,
+un pestañeo y ahora
+estamos aquí
+2020,
+la última vez que yo fui feliz
+2022, la última
+vez que yo te vi
+La vida no me cumplió nada de
+lo que le pedí
+No sé qué pasó
+Yo le pedí a Dios,
+pero él también me ghosteó
+El futuro me golpeó,
+en el pasado me dejó
+La felicidad se alejó
+Y me pregunto qué
+estarás haciendo
+Si en mí estás pensando
+O si la luna estás viendo
+Con otra persona conectando
+Y si de mí le estás hablando,
+eh-eh
+Pero aunque sea seré un
+buen recuerdo
+Seré un buen recuerdo
+```
