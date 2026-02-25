@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "EL CLúB",
+  "base_artist": "Bad Bunny",
+  "createdAt": "2026-02-25T15:20:57.758784Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "El Club de los Humildes",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/01_El_Club_de_los_Humildes_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mujeres en el club",
+      "artist": "Wisin & Yandel",
+      "has_synced": true,
+      "path": "select/02_Mujeres_en_el_club_Wisin_&_Yandel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "El Club de los Olvidados (con Titó)",
+      "artist": "NACH",
+      "has_synced": false,
+      "path": "select/03_El_Club_de_los_Olvidados_(con_Titó)_NACH.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "El club de los olvidados",
+      "artist": "Nach con El Titó",
+      "has_synced": false,
+      "path": "select/04_El_club_de_los_olvidados_Nach_con_El_Titó.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "El Club de los Humildes",
+      "artist": "Mecano",
+      "has_synced": false,
+      "path": "select/05_El_Club_de_los_Humildes_Mecano.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "El Club De Los Imposibles",
+      "artist": "Bunbury",
+      "has_synced": true,
+      "path": "select/06_El_Club_De_Los_Imposibles_Bunbury.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "El Club de los Imposibles",
+      "artist": "Enrique Bunbury",
+      "has_synced": true,
+      "path": "select/07_El_Club_de_los_Imposibles_Enrique_Bunbury.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "El Club de las Horas Contadas",
+      "artist": "Mikel Erentxun",
+      "has_synced": true,
+      "path": "select/08_El_Club_de_las_Horas_Contadas_Mikel_Erentxun.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "El Club Del Alcohol",
+      "artist": "Danza Invisible",
+      "has_synced": false,
+      "path": "select/09_El_Club_Del_Alcohol_Danza_Invisible.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "El club del acohol",
+      "artist": "Danza Invisible",
+      "has_synced": false,
+      "path": "select/10_El_club_del_acohol_Danza_Invisible.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) - Remix",
+      "artist": "Neo Pistea feat. C.R.O, Obie Wanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki",
+      "has_synced": true,
+      "path": "select/11_Tumbando_el_Club_(feat._C.R.O,_Obiewanshot,_YSY_A,_Cazzu,_Khea,_Lucho_SSJ,_Coqeé_Neo_Pistea_feat._C.R.O,_Obie_Wanshot,_YSY_A,_Cazzu,_KHEA,_Lucho_SSJ,_Coqeéin_Mon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tumbando el Club (Remix)",
+      "artist": "Neo Pistea, C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki",
+      "has_synced": true,
+      "path": "select/12_Tumbando_el_Club_(Remix)_Neo_Pistea,_C.R.O,_Obiewanshot,_YSY_A,_Cazzu,_KHEA,_Lucho_SSJ,_Coqeéin_Montana,_.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "El Club De La Gente Rota",
+      "artist": "Pole.",
+      "has_synced": true,
+      "path": "select/13_El_Club_De_La_Gente_Rota_Pole..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "El Club De La Verdad",
+      "artist": "Alejandro Sanz",
+      "has_synced": true,
+      "path": "select/14_El_Club_De_La_Verdad_Alejandro_Sanz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "El club de los imposibles - 2018 Remaster",
+      "artist": "Bunbury",
+      "has_synced": true,
+      "path": "select/15_El_club_de_los_imposibles_-_2018_Remaster_Bunbury.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tumbando el Club (Remix) [feat. Cro, Obie Wanshot, Ysy A, Cazzu, Khea, Lucho SSJ, Coqeéin Montaña, Marcianos Crew & Duki]",
+      "artist": "Neo Pistea",
+      "has_synced": true,
+      "path": "select/16_Tumbando_el_Club_(Remix)_[feat._Cro,_Obie_Wanshot,_Ysy_A,_Cazzu,_Khea,_Lucho_SSJ_Neo_Pistea.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EL CLúB",
+      "artist": "Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_EL_CLúB_Bad_Bunny.txt"
+    }
+  ]
+}
